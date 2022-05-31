@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T15:20:35.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="LFAVg2kVaYuEYd0LXYOm" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-31T15:23:27.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="f1xCSfnFtB4yq8sqTrEz" version="18.0.7" type="github">
   <diagram id="wqQ4pnlPzx8X6N685t49" name="Database">
-    <mxGraphModel dx="1692" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2125" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LIHxPbISG1Q3NiRjGzAK-5" value="Utente" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="334" y="860" width="160" height="120" as="geometry" />
+          <mxGeometry x="334" y="850" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LIHxPbISG1Q3NiRjGzAK-6" value="+ email&#xa;+ password&#xa;+ nome&#xa;+ cognome" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="LIHxPbISG1Q3NiRjGzAK-5">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
