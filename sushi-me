@@ -1,4 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T15:23:27.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="f1xCSfnFtB4yq8sqTrEz" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-31T15:32:44.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="8dDF-285QCLfRBBr_1K9" version="18.0.7" type="github" pages="2">
+  <diagram id="jA-46cJ56JKgTPPVAB_u" name="Design">
+    <mxGraphModel dx="649" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="80" width="110" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-2" value="SplashScreen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="320" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-4" value="Logo" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="165" y="175" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="60" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="wqQ4pnlPzx8X6N685t49" name="Database">
     <mxGraphModel dx="2125" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
