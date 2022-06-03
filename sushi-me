@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T10:03:19.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="jm_N7mgIifXmOjdvf_Sv" version="18.0.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-03T10:04:45.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="ioPNJX9K9mG2wIUKqyBX" version="18.0.7" type="github" pages="2">
   <diagram id="jA-46cJ56JKgTPPVAB_u" name="Design">
-    <mxGraphModel dx="1317" dy="272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,7 +202,7 @@
         <mxCell id="fGXMkagSSqjyzqbIl1wu-84" value="Join" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=4;" vertex="1" parent="1">
           <mxGeometry x="329.12" y="610" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fGXMkagSSqjyzqbIl1wu-85" value="Navigate" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=4;" vertex="1" parent="1">
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-85" value="Navigate" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=4;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="299.12" y="610" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fGXMkagSSqjyzqbIl1wu-86" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
@@ -223,8 +223,62 @@
         <mxCell id="fGXMkagSSqjyzqbIl1wu-95" value="Click To Open" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=4;" vertex="1" parent="1">
           <mxGeometry x="350" y="440" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="fGXMkagSSqjyzqbIl1wu-97" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=4;" vertex="1" parent="1">
-          <mxGeometry x="293.06" y="450" width="91.94" height="60" as="geometry" />
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-97" value="Description of the place" style="rounded=0;whiteSpace=wrap;html=1;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="293.06" y="450" width="91.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-99" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="291.18" y="490" width="95.88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-100" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="295" y="495" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-101" value="Restaurant Name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="309.12" y="495" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-102" value="Location - Distance from&amp;nbsp; you" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="313.75" y="500" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-103" value="Stars" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="369.12" y="495" width="15" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-104" value="Click To Open" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="350" y="510" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-105" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="291.18" y="530" width="95.88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-106" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="295" y="535" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-107" value="Restaurant Name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="309.12" y="535" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-108" value="Location - Distance from&amp;nbsp; you" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="313.75" y="540" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-109" value="Stars" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="369.12" y="535" width="15" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-110" value="Click To Open" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="350" y="550" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-111" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="291.18" y="570" width="95.88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-112" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="295" y="575" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-113" value="Restaurant Name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="309.12" y="575" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-114" value="Location - Distance from&amp;nbsp; you" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="313.75" y="580" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-115" value="Stars" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="369.12" y="575" width="15" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXMkagSSqjyzqbIl1wu-116" value="Click To Open" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="350" y="590" width="40" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
