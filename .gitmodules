@@ -1,6 +1,6 @@
 [submodule "android"]
 	path = android
-	url = git@github.com:alemazzo/sushi-me.git
+	url = https://github.com/alemazzo/sushi-me.git
 [submodule "ios"]
 	path = ios
-	url = git@github.com:manuandru/Sushime.git
+	url = https://github.com/manuandru/Sushime.git
