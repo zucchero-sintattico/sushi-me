@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T12:00:19.738Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="i9mvGhgFUmsqFk5lQSQg" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-22T12:00:33.176Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="7AleD2QD3qkpsx7fKcIs" version="20.0.1" type="github" pages="2">
   <diagram id="jA-46cJ56JKgTPPVAB_u" name="Design">
     <mxGraphModel dx="1836" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1033,7 +1033,7 @@
         <mxCell id="LIHxPbISG1Q3NiRjGzAK-7" value="Ristorante" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="100" y="220" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LIHxPbISG1Q3NiRjGzAK-8" value="+ id: PK&#xa;+ nome&#xa;+ indirizzo" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="LIHxPbISG1Q3NiRjGzAK-7" vertex="1">
+        <mxCell id="LIHxPbISG1Q3NiRjGzAK-8" value="+ id: PK&#xa;+ nome&#xa;+ descrizione" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="LIHxPbISG1Q3NiRjGzAK-7" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LIHxPbISG1Q3NiRjGzAK-9" value="Piatto" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
